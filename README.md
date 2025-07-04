@@ -7,3 +7,9 @@ Anlık sıcaklık bilgisi
 Hava durumu açıklaması 
 Hatalı şehir girişi için uyarı sistemi
 Minimal ve sade tasarım
+
+Kullanılan Teknolojiler:
+HTML5
+CSS3
+JavaScript
+OpenWeatherMap API 
